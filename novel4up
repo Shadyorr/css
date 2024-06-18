@@ -1,1 +1,1 @@
-novel4up.com#%#//scriptlet('abort-current-inline-script', 'alert', 'Hello, world')
+novel4up.com#$#body {.entry-content_wrap p { color: white !important; text-align: center !important; }}
